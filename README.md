@@ -10,9 +10,9 @@
 
 
 ### Screenshots
-| Image 1 | Image 2 | Image 3 | | Image 4 |
+| Image 1 | Image 2 | Image 3 | 
 |--------|--------|--------|
-| ![Alt1](assets/screenshot1.png) | ![Alt2](assets/screenshot2.png) | ![Alt3](assets/screenshot3.png) | ![Alt4](assets/screenshot4.png) |
+| ![Alt1](assets/screenshot1.png) | ![Alt2](assets/screenshot2.png) | ![Alt3](assets/screenshot3.png) | 
 
 
 ### credits
