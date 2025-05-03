@@ -1,11 +1,12 @@
 
 public class Course {
-    MyLinkedList<Student> students;
+    StudentLinkedList students;
 
     int id;
+    String title;
 
     Course(int id) {
         this.id = id;
-        students = new MyLinkedList<Student>();
+        students = new StudentLinkedList();
     }
 }
